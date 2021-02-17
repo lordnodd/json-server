@@ -1,0 +1,151 @@
+{
+  "documents": {
+    "proposals": [
+      {
+        "id": 1,
+        "name": "proposal1",
+        "parent": "documents",
+        "type": "proposal",
+        "url": "https://via.placeholder.com/250x300"
+      },
+      {
+        "id": 2,
+        "name": "proposal2",
+        "parent": "documents",
+        "type": "proposal",
+        "url": "https://via.placeholder.com/250x300"
+      },
+      {
+        "id": 3,
+        "name": "proposal3",
+        "parent": "documents",
+        "type": "proposal",
+        "url": "https://via.placeholder.com/250x300"
+      }
+    ],
+    "contracts": [
+      {
+        "id": 1,
+        "name": "contract1",
+        "parent": "documents",
+        "type": "contract",
+        "url": "https://via.placeholder.com/250x300"
+      },
+      {
+        "id": 2,
+        "name": "contract2",
+        "parent": "documents",
+        "type": "contract",
+        "url": "https://via.placeholder.com/250x300"
+      },
+      {
+        "id": 3,
+        "name": "contract3",
+        "parent": "documents",
+        "type": "contract",
+        "url": "https://via.placeholder.com/250x300"
+      }
+    ],
+    "hr": [
+      {
+        "id": 1,
+        "name": "hr1",
+
+        "parent": "documents",
+        "type": "hr",
+        "url": "https://via.placeholder.com/250x300"
+      },
+      {
+        "id": 2,
+        "name": "hr2",
+
+        "parent": "documents",
+        "type": "hr",
+        "url": "https://via.placeholder.com/250x300"
+      },
+      {
+        "id": 3,
+        "name": "hr3",
+
+        "parent": "documents",
+        "type": "hr",
+        "url": "https://via.placeholder.com/250x300"
+      }
+    ]
+  },
+  "templates": {
+    "proposals": [
+      {
+        "id": 1,
+        "name": "proposal1",
+        "parent": "templates",
+        "type": "proposal",
+        "url": "https://via.placeholder.com/250x300"
+      },
+      {
+        "id": 2,
+        "name": "proposal2",
+        "parent": "templates",
+        "type": "proposal",
+        "url": "https://via.placeholder.com/250x300"
+      },
+      {
+        "id": 3,
+        "name": "proposal3",
+        "parent": "templates",
+        "type": "proposal",
+        "url": "https://via.placeholder.com/250x300"
+      }
+    ],
+    "contracts": [
+      {
+        "id": 1,
+        "name": "contract1",
+        "parent": "templates",
+        "type": "contract",
+        "url": "https://via.placeholder.com/250x300"
+      },
+      {
+        "id": 2,
+        "name": "contract2",
+        "parent": "templates",
+        "type": "contract",
+        "url": "https://via.placeholder.com/250x300"
+      },
+      {
+        "id": 3,
+        "name": "contract3",
+        "parent": "templates",
+        "type": "contract",
+        "url": "https://via.placeholder.com/250x300"
+      }
+    ],
+    "hr": [
+      {
+        "id": 1,
+        "name": "hr1",
+
+        "parent": "templates",
+        "type": "hr",
+        "url": "https://via.placeholder.com/250x300"
+      },
+      {
+        "id": 2,
+        "name": "hr2",
+
+        "parent": "templates",
+        "type": "hr",
+        "url": "https://via.placeholder.com/250x300"
+      },
+      {
+        "id": 3,
+        "name": "hr3",
+
+        "parent": "templates",
+        "type": "hr",
+        "url": "https://via.placeholder.com/250x300"
+      }
+    ]
+  },
+  "workflow": []
+}
