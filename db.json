@@ -1,49 +1,49 @@
 {
+  "variant": [
+    {
+      "id": 1,
+      "name": "variants1",
+      "parent": "documents",
+      "type": "variants",
+      "url": "https://via.placeholder.com/150x100"
+    },
+    {
+      "id": 2,
+      "name": "variants2",
+      "parent": "documents",
+      "type": "variants",
+      "url": "https://via.placeholder.com/150x100"
+    },
+    {
+      "id": 3,
+      "name": "variants3",
+      "parent": "documents",
+      "type": "variants",
+      "url": "https://via.placeholder.com/150x100"
+    },
+    {
+      "id": 4,
+      "name": "variants4",
+      "parent": "documents",
+      "type": "variants",
+      "url": "https://via.placeholder.com/150x100"
+    },
+    {
+      "id": 5,
+      "name": "variants5",
+      "parent": "documents",
+      "type": "variants",
+      "url": "https://via.placeholder.com/150x100"
+    },
+    {
+      "id": 6,
+      "name": "variants6",
+      "parent": "documents",
+      "type": "variants",
+      "url": "https://via.placeholder.com/150x100"
+    }
+  ],
   "documents": {
-    "variant":[
-      {
-        "id": 1,
-        "name": "variants1",
-        "parent": "documents",
-        "type": "variants",
-        "url": "https://via.placeholder.com/150x100"
-      },
-      {
-        "id": 2,
-        "name": "variants2",
-        "parent": "documents",
-        "type": "variants",
-        "url": "https://via.placeholder.com/150x100"
-      },
-      {
-        "id": 3,
-        "name": "variants3",
-        "parent": "documents",
-        "type": "variants",
-        "url": "https://via.placeholder.com/150x100"
-      },
-      {
-        "id": 4,
-        "name": "variants4",
-        "parent": "documents",
-        "type": "variants",
-        "url": "https://via.placeholder.com/150x100"
-      },
-      {
-        "id": 5,
-        "name": "variants5",
-        "parent": "documents",
-        "type": "variants",
-        "url": "https://via.placeholder.com/150x100"
-      },
-      {
-        "id": 6,
-        "name": "variants6",
-        "parent": "documents",
-        "type": "variants",
-        "url": "https://via.placeholder.com/150x100"
-      }
-    ],
     "proposals": [
       {
         "id": 1,
