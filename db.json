@@ -286,5 +286,73 @@
       "method": "card",
       "status": "failed"
     }
+  ],
+  "keyManagement": [
+    {
+      "name": "Kevin",
+      "decription": "helps us know you better",
+      "type": "private",
+      "tag": "amenities"
+    },
+    {
+      "name": "Hal Jordan",
+      "decription": "helps you know us better",
+      "type": "public",
+      "tag": "amenities"
+    },
+    {
+      "name": "Barry Allen",
+      "decription": "helps us know you better",
+      "type": "private",
+      "tag": "amenities"
+    },
+    {
+      "name": "Bruce Wayne",
+      "decription": "helps us know you better",
+      "type": "private",
+      "tag": "amenities"
+    },
+    {
+      "name": "Clarke Kent",
+      "decription": "helps us know you better",
+      "type": "private",
+      "tag": "amenities"
+    },
+    {
+      "name": "Steppen Wolf",
+      "decription": "helps you know us better",
+      "type": "public",
+      "tag": "amenities"
+    },
+    {
+      "name": "Jack Snyder",
+      "decription": "helps us know you better",
+      "type": "private",
+      "tag": "amenities"
+    },
+    {
+      "name": "Diana Prince",
+      "decription": "helps us know you better",
+      "type": "private",
+      "tag": "amenities"
+    },
+    {
+      "name": "Damian Wayne",
+      "decription": "helps you know us better",
+      "type": "public",
+      "tag": "amenities"
+    },
+    {
+      "name": "Dick Grayson",
+      "decription": "helps us know you better",
+      "type": "private",
+      "tag": "amenities"
+    },
+    {
+      "name": "Alfred Pennyworth",
+      "decription": "helps you know us better",
+      "type": "public",
+      "tag": "amenities"
+    }
   ]
 }
